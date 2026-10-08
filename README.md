@@ -2,12 +2,7 @@
 
 I built this to see if I could recreate the classic iPod click-wheel in Android using custom touch gestures, and then decided to hook it up to the phone's hardware sensors so the whole UI tilts in 3D space as you move the device.
 
-<img width="720" height="1600" alt="5" src="https://github.com/user-attachments/assets/a1154542-838c-4574-b111-7127cfbc0553" />
-<img width="720" height="1600" alt="4" src="https://github.com/user-attachments/assets/4810d5de-be23-49b1-ade1-eb3ec3207727" />
-<img width="720" height="1600" alt="2" src="https://github.com/user-attachments/assets/5a1f173b-42c9-478a-b6dd-c51a3ff5cdea" />
-<img width="720" height="1600" alt="1" src="https://github.com/user-attachments/assets/e4ee20e7-5642-4404-bac4-4376ec12a0a4" />
-<img width="720" height="1600" alt="0" src="https://github.com/user-attachments/assets/3277649d-3091-42bf-9ade-6856780e93e4" />
-
+<img src="https://github.com/user-attachments/assets/a1154542-838c-4574-b111-7127cfbc0553" width="160" alt="5"> <img src="https://github.com/user-attachments/assets/4810d5de-be23-49b1-ade1-eb3ec3207727" width="160" alt="4"> <img src="https://github.com/user-attachments/assets/5a1f173b-42c9-478a-b6dd-c51a3ff5cdea" width="160" alt="2"> <img src="https://github.com/user-attachments/assets/e4ee20e7-5642-4404-bac4-4376ec12a0a4" width="160" alt="1"> <img src="https://github.com/user-attachments/assets/3277649d-3091-42bf-9ade-6856780e93e4" width="160" alt="0">
 
 https://github.com/user-attachments/assets/0c3df27c-ea06-4749-9f24-f13911290f5b
 
